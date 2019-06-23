@@ -1,3 +1,3 @@
 # vitastuff
 Godforbidden bullshit.
-<a src="https://idiotic.me/vitastuff/ver/">Vercheck<src>
+<a href="https://idiotic.me/vitastuff/ver/">Vercheck</a>
